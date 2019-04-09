@@ -1,0 +1,73 @@
+{
+  "id": 1209809321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.53802,47.12972,9.53802,47.12972",
+    "geom:latitude":47.12972,
+    "geom:longitude":9.53802,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Rotenboden",
+    "gn:cc2":"LI",
+    "gn:country_code":"LI",
+    "gn:dem":1006,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3315353,
+    "gn:latitude":47.12972,
+    "gn:longitude":9.53802,
+    "gn:modification_date":"2008-07-25",
+    "gn:name":"Rotenboden",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vaduz",
+    "iso:country":"LI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rotaboda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        404473637,
+        85633267,
+        85685737,
+        1175612917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3315353,
+        "wk:page":"Rotenboden"
+    },
+    "wof:country":"LI",
+    "wof:geomhash":"1c9d961e3ce42aa262e512c3b1832e8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633267,
+            "localadmin_id":404473637,
+            "locality_id":1209809321,
+            "region_id":85685737
+        }
+    ],
+    "wof:id":1209809321,
+    "wof:lastmodified":1537661327,
+    "wof:name":"Rotenboden",
+    "wof:parent_id":1175612917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-li",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.53802,
+    47.12972,
+    9.53802,
+    47.12972
+],
+  "geometry": {"coordinates":[9.53802,47.12972],"type":"Point"}
+}

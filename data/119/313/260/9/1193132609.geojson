@@ -1,0 +1,68 @@
+{
+  "id": 1193132609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.55107,47.12463,9.55107,47.12463",
+    "geom:latitude":47.12463,
+    "geom:longitude":9.55107,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Parsula",
+    "gn:country_code":"LI",
+    "gn:dem":1212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10352437,
+    "gn:latitude":47.12463,
+    "gn:longitude":9.55107,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Pars\u00fcla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vaduz",
+    "iso:country":"LI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        404473637,
+        85633267,
+        85685737,
+        1175612917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10352437
+    },
+    "wof:country":"LI",
+    "wof:geomhash":"a9610b60afc3577039d3a01a3132862f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633267,
+            "localadmin_id":404473637,
+            "locality_id":1193132609,
+            "region_id":85685737
+        }
+    ],
+    "wof:id":1193132609,
+    "wof:lastmodified":1536374169,
+    "wof:name":"Parsula",
+    "wof:parent_id":1175612917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-li",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.55107,
+    47.12463,
+    9.55107,
+    47.12463
+],
+  "geometry": {"coordinates":[9.55107,47.12463],"type":"Point"}
+}

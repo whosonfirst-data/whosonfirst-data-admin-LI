@@ -1,0 +1,68 @@
+{
+  "id": 1310200385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.53654,47.12012,9.53654,47.12012",
+    "geom:latitude":47.12012,
+    "geom:longitude":9.53654,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Rackholtera",
+    "gn:country_code":"LI",
+    "gn:dem":765,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10353637,
+    "gn:latitude":47.12012,
+    "gn:longitude":9.53654,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"R\u00e4ckholtera",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vaduz",
+    "iso:country":"LI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        404473637,
+        85633267,
+        85685737,
+        1175612917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10353637
+    },
+    "wof:country":"LI",
+    "wof:geomhash":"a3554df874e8f434675fca9031602cfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633267,
+            "localadmin_id":404473637,
+            "locality_id":1310200385,
+            "region_id":85685737
+        }
+    ],
+    "wof:id":1310200385,
+    "wof:lastmodified":1536858375,
+    "wof:name":"Rackholtera",
+    "wof:parent_id":1175612917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-li",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.53654,
+    47.12012,
+    9.53654,
+    47.12012
+],
+  "geometry": {"coordinates":[9.53654,47.12012],"type":"Point"}
+}

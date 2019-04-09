@@ -1,0 +1,68 @@
+{
+  "id": 1310299193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.54598,47.12497,9.54598,47.12497",
+    "geom:latitude":47.12497,
+    "geom:longitude":9.54598,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Bim Brunna",
+    "gn:country_code":"LI",
+    "gn:dem":1108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10352441,
+    "gn:latitude":47.12497,
+    "gn:longitude":9.54598,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Bim Brunna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vaduz",
+    "iso:country":"LI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        404473637,
+        85633267,
+        85685737,
+        1175612917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10352441
+    },
+    "wof:country":"LI",
+    "wof:geomhash":"782af58567e36c863d92ff2fdb760d98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633267,
+            "localadmin_id":404473637,
+            "locality_id":1310299193,
+            "region_id":85685737
+        }
+    ],
+    "wof:id":1310299193,
+    "wof:lastmodified":1536717369,
+    "wof:name":"Bim Brunna",
+    "wof:parent_id":1175612917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-li",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.54598,
+    47.12497000000001,
+    9.54598,
+    47.12497000000001
+],
+  "geometry": {"coordinates":[9.54598,47.12497000000001],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209899911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.54498,47.10799,9.54498,47.10799",
+    "geom:latitude":47.10799,
+    "geom:longitude":9.54498,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ruti",
+    "gn:country_code":"LI",
+    "gn:dem":841,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10353678,
+    "gn:latitude":47.10799,
+    "gn:longitude":9.54498,
+    "gn:modification_date":"2016-03-11",
+    "gn:name":"R\u00fcti",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vaduz",
+    "iso:country":"LI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "R\u00fcti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        404473637,
+        85633267,
+        85685737,
+        1175612917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10353678
+    },
+    "wof:country":"LI",
+    "wof:geomhash":"659495e4b2422aa193999edc985b00e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633267,
+            "localadmin_id":404473637,
+            "locality_id":1209899911,
+            "region_id":85685737
+        }
+    ],
+    "wof:id":1209899911,
+    "wof:lastmodified":1537661327,
+    "wof:name":"Ruti",
+    "wof:parent_id":1175612917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-li",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.54498,
+    47.10799,
+    9.54498,
+    47.10799
+],
+  "geometry": {"coordinates":[9.54498,47.10799],"type":"Point"}
+}

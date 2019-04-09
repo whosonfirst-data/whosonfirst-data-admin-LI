@@ -1,0 +1,67 @@
+{
+  "id": 1260308603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.54612,47.177,9.54612,47.177",
+    "geom:latitude":47.177,
+    "geom:longitude":9.54612,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ober Stall",
+    "gn:country_code":"LI",
+    "gn:dem":999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10352414,
+    "gn:latitude":47.177,
+    "gn:longitude":9.54612,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Ober St\u00e4ll",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vaduz",
+    "iso:country":"LI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        404473665,
+        85633267,
+        85685737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10352414
+    },
+    "wof:country":"LI",
+    "wof:geomhash":"f141b09bd20c510fb758514fcdd5ef00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633267,
+            "localadmin_id":404473665,
+            "locality_id":1260308603,
+            "region_id":85685737
+        }
+    ],
+    "wof:id":1260308603,
+    "wof:lastmodified":1536678301,
+    "wof:name":"Ober Stall",
+    "wof:parent_id":404473665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-li",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.54612,
+    47.177,
+    9.54612,
+    47.177
+],
+  "geometry": {"coordinates":[9.54612,47.177],"type":"Point"}
+}

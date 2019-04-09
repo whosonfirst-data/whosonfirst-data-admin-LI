@@ -1,0 +1,68 @@
+{
+  "id": 1242661223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.55327,47.12501,9.55327,47.12501",
+    "geom:latitude":47.12501,
+    "geom:longitude":9.55327,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Mitatsch",
+    "gn:country_code":"LI",
+    "gn:dem":1268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10352426,
+    "gn:latitude":47.12501,
+    "gn:longitude":9.55327,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Mit\u00e4tsch",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vaduz",
+    "iso:country":"LI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        404473637,
+        85633267,
+        85685737,
+        1175612917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10352426
+    },
+    "wof:country":"LI",
+    "wof:geomhash":"71921eb55f9c1900e4149a9defcc19b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633267,
+            "localadmin_id":404473637,
+            "locality_id":1242661223,
+            "region_id":85685737
+        }
+    ],
+    "wof:id":1242661223,
+    "wof:lastmodified":1536943905,
+    "wof:name":"Mitatsch",
+    "wof:parent_id":1175612917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-li",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.55327,
+    47.12501,
+    9.55327,
+    47.12501
+],
+  "geometry": {"coordinates":[9.55327,47.12501],"type":"Point"}
+}

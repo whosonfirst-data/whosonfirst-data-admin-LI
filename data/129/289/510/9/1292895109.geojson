@@ -1,0 +1,68 @@
+{
+  "id": 1292895109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.54664,47.12665,9.54664,47.12665",
+    "geom:latitude":47.12665,
+    "geom:longitude":9.54664,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Hof",
+    "gn:country_code":"LI",
+    "gn:dem":1172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10352439,
+    "gn:latitude":47.12665,
+    "gn:longitude":9.54664,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Hof",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vaduz",
+    "iso:country":"LI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        404473637,
+        85633267,
+        85685737,
+        1175612917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10352439
+    },
+    "wof:country":"LI",
+    "wof:geomhash":"f971dad362656ebe023108ffe8d5eda5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633267,
+            "localadmin_id":404473637,
+            "locality_id":1292895109,
+            "region_id":85685737
+        }
+    ],
+    "wof:id":1292895109,
+    "wof:lastmodified":1536646552,
+    "wof:name":"Hof",
+    "wof:parent_id":1175612917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-li",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.54664,
+    47.12665,
+    9.54664,
+    47.12665
+],
+  "geometry": {"coordinates":[9.54664,47.12665],"type":"Point"}
+}

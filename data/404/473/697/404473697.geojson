@@ -1,0 +1,62 @@
+{
+  "id": 404473697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000004,
+    "geom:bbox":"9.53240448289,47.1829665647,9.53515125547,47.1851699608",
+    "geom:latitude":47.184124,
+    "geom:longitude":9.533836,
+    "iso:country":"LI",
+    "lbl:latitude":47.184094,
+    "lbl:longitude":9.533971,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:a0":"Liechtenstein",
+    "qs:adm0":"Liechtenstein",
+    "qs:adm0_a3":"LIE",
+    "qs:la":"Planken (LI)",
+    "qs:la_lc":"7006",
+    "qs:level":"localadmin",
+    "qs:source":"SwissTopo",
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191581,
+        85633267,
+        85685737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"LI",
+    "wof:geomhash":"a652559655fffb35cd91b0574191ea99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633267,
+            "localadmin_id":404473697,
+            "region_id":85685737
+        }
+    ],
+    "wof:id":404473697,
+    "wof:lastmodified":1534985958,
+    "wof:name":"Planken (Li)",
+    "wof:parent_id":85685737,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-li",
+    "wof:superseded_by":[
+        1175612919
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.53240448289177,
+    47.18296656470663,
+    9.53515125547273,
+    47.18516996084734
+],
+  "geometry": {"coordinates":[[[9.53427173499639,47.18296656470663],[9.53387890195195,47.18304570374423],[9.53240448289177,47.18415229797526],[9.5324122286704,47.18435011093786],[9.53262167960856,47.1846432295611],[9.53302438771862,47.18481585697582],[9.53359503065469,47.18489544534938],[9.53433169506521,47.18516996084734],[9.53515125547273,47.18419225422495],[9.53427173499639,47.18296656470663]]],"type":"Polygon"}
+}

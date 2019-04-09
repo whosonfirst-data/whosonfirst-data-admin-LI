@@ -1,0 +1,70 @@
+{
+  "id": 1310089975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.52791,47.08632,9.52791,47.08632",
+    "geom:latitude":47.08632,
+    "geom:longitude":9.52791,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Welda Bongert",
+    "gn:country_code":"LI",
+    "gn:dem":508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10354583,
+    "gn:latitude":47.08632,
+    "gn:longitude":9.52791,
+    "gn:modification_date":"2016-03-11",
+    "gn:name":"Welda Bongert",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vaduz",
+    "iso:country":"LI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Welda Bongert"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        404473633,
+        85633267,
+        85685737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10354583
+    },
+    "wof:country":"LI",
+    "wof:geomhash":"8b1b5ec042c29a6bb01f1dcb33c1c0bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633267,
+            "localadmin_id":404473633,
+            "locality_id":1310089975,
+            "region_id":85685737
+        }
+    ],
+    "wof:id":1310089975,
+    "wof:lastmodified":1537661327,
+    "wof:name":"Welda Bongert",
+    "wof:parent_id":404473633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-li",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.52791,
+    47.08632,
+    9.52791,
+    47.08632
+],
+  "geometry": {"coordinates":[9.52791,47.08632],"type":"Point"}
+}

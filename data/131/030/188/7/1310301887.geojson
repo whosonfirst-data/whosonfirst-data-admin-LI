@@ -1,0 +1,68 @@
+{
+  "id": 1310301887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.60064,47.13981,9.60064,47.13981",
+    "geom:latitude":47.13981,
+    "geom:longitude":9.60064,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bim Stall",
+    "gn:country_code":"LI",
+    "gn:dem":1405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10352545,
+    "gn:latitude":47.13981,
+    "gn:longitude":9.60064,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Bim Stall",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vaduz",
+    "iso:country":"LI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        404473647,
+        85633267,
+        85685737,
+        1175612909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10352545
+    },
+    "wof:country":"LI",
+    "wof:geomhash":"d0dc4f5e6dd2f606a5782fe5a063e7c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633267,
+            "localadmin_id":404473647,
+            "locality_id":1310301887,
+            "region_id":85685737
+        }
+    ],
+    "wof:id":1310301887,
+    "wof:lastmodified":1536713500,
+    "wof:name":"Bim Stall",
+    "wof:parent_id":1175612909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-li",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.60064,
+    47.13981,
+    9.60064,
+    47.13981
+],
+  "geometry": {"coordinates":[9.60064,47.13981],"type":"Point"}
+}

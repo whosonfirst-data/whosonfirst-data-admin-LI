@@ -1,0 +1,61 @@
+{
+  "id": 1209095401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.55838,47.12802,9.55838,47.12802",
+    "geom:latitude":47.12802,
+    "geom:longitude":9.55838,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Alpelti",
+    "gn:country_code":"LI",
+    "gn:dem":1486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10366993,
+    "gn:latitude":47.12802,
+    "gn:longitude":9.55838,
+    "gn:modification_date":"2015-08-08",
+    "gn:name":"Alpelti",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vaduz",
+    "iso:country":"LI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10366993
+    },
+    "wof:country":"LI",
+    "wof:geomhash":"76c69a318961b4ab93d161033f5ff00a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633267,
+            "locality_id":1209095401
+        }
+    ],
+    "wof:id":1209095401,
+    "wof:lastmodified":1536297903,
+    "wof:name":"Alpelti",
+    "wof:parent_id":85633267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-li",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.55838,
+    47.12802,
+    9.55838,
+    47.12802
+],
+  "geometry": {"coordinates":[9.55838,47.12802],"type":"Point"}
+}
