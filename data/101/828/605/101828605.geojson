@@ -23,9 +23,6 @@
     "name:arg_x_preferred":[
         "Triesen"
     ],
-    "name:baq_x_preferred":[
-        "Triesen"
-    ],
     "name:bel_x_preferred":[
         "\u0422\u0440\u044b\u0437\u0435\u043d"
     ],
@@ -38,19 +35,10 @@
     "name:ces_x_preferred":[
         "Triesen"
     ],
-    "name:chi_x_preferred":[
-        "\u7279\u91cc\u68ee"
-    ],
-    "name:cze_x_preferred":[
-        "Triesen"
-    ],
     "name:dan_x_preferred":[
         "Triesen"
     ],
     "name:deu_x_preferred":[
-        "Triesen"
-    ],
-    "name:dut_x_preferred":[
         "Triesen"
     ],
     "name:ell_x_preferred":[
@@ -68,23 +56,17 @@
     "name:fas_x_preferred":[
         "\u062a\u0631\u06cc\u0632\u0646"
     ],
+    "name:fas_x_variant":[
+        "\u062a\u062e\u06cc\u0632\u0646"
+    ],
     "name:fin_x_preferred":[
         "Triesen"
     ],
     "name:fra_x_preferred":[
         "Triesen"
     ],
-    "name:fre_x_preferred":[
-        "Triesen"
-    ],
-    "name:ger_x_preferred":[
-        "Triesen"
-    ],
     "name:glg_x_preferred":[
         "Triesen"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03c1\u03af\u03c3\u03b5\u03bd"
     ],
     "name:gsw_x_preferred":[
         "Tresa"
@@ -116,9 +98,6 @@
     "name:lmo_x_preferred":[
         "Triesen"
     ],
-    "name:mac_x_preferred":[
-        "\u0422\u0440\u0438\u0437\u0435\u043d"
-    ],
     "name:mkd_x_preferred":[
         "\u0422\u0440\u0438\u0437\u0435\u043d"
     ],
@@ -136,9 +115,6 @@
     ],
     "name:oci_x_preferred":[
         "Triesen"
-    ],
-    "name:per_x_preferred":[
-        "\u062a\u062e\u06cc\u0632\u0646"
     ],
     "name:pnb_x_preferred":[
         "\u0679\u0631\u0622\u0626\u06cc\u0632\u0646"
@@ -162,9 +138,6 @@
         "Triesen"
     ],
     "name:slk_x_preferred":[
-        "Triesen"
-    ],
-    "name:slo_x_preferred":[
         "Triesen"
     ],
     "name:spa_x_preferred":[
@@ -232,7 +205,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1535390431,
+    "wof:lastmodified":1561830531,
     "wof:name":"Triesen",
     "wof:parent_id":404473633,
     "wof:placetype":"locality",

@@ -157,9 +157,6 @@
     "name:cym_x_preferred":[
         "Liechtenstein"
     ],
-    "name:cze_x_preferred":[
-        "Lichten\u0161tejnsko"
-    ],
     "name:dan_x_preferred":[
         "Liechtenstein"
     ],
@@ -874,7 +871,6 @@
         "\u5217\u652f\u6566\u65af\u767b"
     ],
     "name:zho_x_variant":[
-        "\u5217\u652f\u6566\u65af\u767b",
         "\u5217\u652f\u6566\u58eb\u767b"
     ],
     "name:zho_yue_x_preferred":[
@@ -1031,7 +1027,7 @@
         "deu",
         "gsw"
     ],
-    "wof:lastmodified":1544059186,
+    "wof:lastmodified":1561830531,
     "wof:name":"Liechtenstein",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
