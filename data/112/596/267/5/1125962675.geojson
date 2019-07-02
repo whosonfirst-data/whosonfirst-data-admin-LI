@@ -25,13 +25,7 @@
     "name:arg_x_preferred":[
         "Steg"
     ],
-    "name:arm_x_preferred":[
-        "\u0547\u057f\u0565\u0563"
-    ],
     "name:ast_x_preferred":[
-        "Steg"
-    ],
-    "name:baq_x_preferred":[
         "Steg"
     ],
     "name:bar_x_preferred":[
@@ -43,16 +37,19 @@
     "name:cat_x_preferred":[
         "Steg"
     ],
+    "name:ces_x_preferred":[
+        "Steg"
+    ],
     "name:cos_x_preferred":[
         "Steg"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Steg"
     ],
     "name:dan_x_preferred":[
         "Steg"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Steg"
     ],
     "name:eng_x_preferred":[
@@ -64,19 +61,22 @@
     "name:est_x_preferred":[
         "Steg"
     ],
+    "name:eus_x_preferred":[
+        "Steg"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0634\u062a\u06af"
+    ],
     "name:fin_x_preferred":[
         "Steg"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Steg"
     ],
     "name:frp_x_preferred":[
         "Steg"
     ],
     "name:fur_x_preferred":[
-        "Steg"
-    ],
-    "name:ger_x_preferred":[
         "Steg"
     ],
     "name:gla_x_preferred":[
@@ -97,8 +97,8 @@
     "name:hun_x_preferred":[
         "Steg"
     ],
-    "name:ice_x_preferred":[
-        "Steg"
+    "name:hye_x_preferred":[
+        "\u0547\u057f\u0565\u0563"
     ],
     "name:ido_x_preferred":[
         "Steg"
@@ -110,6 +110,9 @@
         "Steg"
     ],
     "name:ind_x_preferred":[
+        "Steg"
+    ],
+    "name:isl_x_preferred":[
         "Steg"
     ],
     "name:ita_x_preferred":[
@@ -130,19 +133,22 @@
     "name:ltz_x_preferred":[
         "Steg"
     ],
-    "name:may_x_preferred":[
-        "Steg"
-    ],
     "name:min_x_preferred":[
         "Steg"
     ],
     "name:mlg_x_preferred":[
         "Steg"
     ],
+    "name:msa_x_preferred":[
+        "Steg"
+    ],
     "name:nap_x_preferred":[
         "Steg"
     ],
     "name:nds_x_preferred":[
+        "Steg"
+    ],
+    "name:nld_x_preferred":[
         "Steg"
     ],
     "name:nno_x_preferred":[
@@ -160,9 +166,6 @@
     "name:pcd_x_preferred":[
         "Steg"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0634\u062a\u06af"
-    ],
     "name:pms_x_preferred":[
         "Steg"
     ],
@@ -175,7 +178,7 @@
     "name:roh_x_preferred":[
         "Steg"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Steg"
     ],
     "name:rus_x_preferred":[
@@ -187,7 +190,7 @@
     "name:sco_x_preferred":[
         "Steg"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Steg"
     ],
     "name:slv_x_preferred":[
@@ -218,9 +221,6 @@
         "Steg"
     ],
     "name:vol_x_preferred":[
-        "Steg"
-    ],
-    "name:wel_x_preferred":[
         "Steg"
     ],
     "name:wln_x_preferred":[
@@ -285,7 +285,7 @@
         }
     ],
     "wof:id":1125962675,
-    "wof:lastmodified":1514470164,
+    "wof:lastmodified":1561830532,
     "wof:name":"Steg",
     "wof:parent_id":404473637,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000242,
-    "geom:area_square_m":2034624.204752,
+    "geom:area_square_m":2034624.204753,
     "geom:bbox":"9.48702973417,47.0586349573,9.51586609852,47.0794551328",
     "geom:latitude":47.066663,
     "geom:longitude":9.503022,
@@ -26,9 +26,6 @@
     "name:arg_x_preferred":[
         "Balzers"
     ],
-    "name:baq_x_preferred":[
-        "Balzers"
-    ],
     "name:bel_x_preferred":[
         "\u0411\u0430\u043b\u044c\u0446\u044d\u0440\u0441"
     ],
@@ -38,19 +35,10 @@
     "name:ces_x_preferred":[
         "Balzers"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u5c14\u91c7\u65af"
-    ],
-    "name:cze_x_preferred":[
-        "Balzers"
-    ],
     "name:dan_x_preferred":[
         "Balzers"
     ],
     "name:deu_x_preferred":[
-        "Balzers"
-    ],
-    "name:dut_x_preferred":[
         "Balzers"
     ],
     "name:eng_x_preferred":[
@@ -69,12 +57,6 @@
         "Balzers"
     ],
     "name:fra_x_preferred":[
-        "Balzers"
-    ],
-    "name:fre_x_preferred":[
-        "Balzers"
-    ],
-    "name:ger_x_preferred":[
         "Balzers"
     ],
     "name:glg_x_preferred":[
@@ -107,12 +89,6 @@
     "name:lmo_x_preferred":[
         "Balzers"
     ],
-    "name:mac_x_preferred":[
-        "\u0411\u0430\u043b\u0446\u0435\u0440\u0441"
-    ],
-    "name:may_x_preferred":[
-        "Balzers"
-    ],
     "name:mkd_x_preferred":[
         "\u0411\u0430\u043b\u0446\u0435\u0440\u0441"
     ],
@@ -137,9 +113,6 @@
     "name:oci_x_preferred":[
         "Balzers"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0627\u0644\u0632\u0631\u0633"
-    ],
     "name:pnb_x_preferred":[
         "\u0628\u0644\u06cc\u0632\u0631\u0632"
     ],
@@ -162,9 +135,6 @@
         "Balzers"
     ],
     "name:slk_x_preferred":[
-        "Balzers"
-    ],
-    "name:slo_x_preferred":[
         "Balzers"
     ],
     "name:spa_x_preferred":[
@@ -236,7 +206,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1527689271,
+    "wof:lastmodified":1561830531,
     "wof:name":"Balzers",
     "wof:parent_id":404473643,
     "wof:placetype":"locality",

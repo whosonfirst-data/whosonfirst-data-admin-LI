@@ -21,9 +21,6 @@
     "name:afr_x_preferred":[
         "Vaduz"
     ],
-    "name:alb_x_preferred":[
-        "Vaduz"
-    ],
     "name:als_x_preferred":[
         "Vaduz"
     ],
@@ -36,14 +33,8 @@
     "name:arg_x_preferred":[
         "Vaduz"
     ],
-    "name:arm_x_preferred":[
-        "\u054e\u0561\u0564\u0578\u0582\u0581"
-    ],
     "name:aze_x_preferred":[
         "Vaduts"
-    ],
-    "name:baq_x_preferred":[
-        "Vaduz"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0412\u0430\u0434\u0443\u0446"
@@ -72,11 +63,11 @@
     "name:ces_x_preferred":[
         "Vaduz"
     ],
+    "name:ces_x_variant":[
+        "Vad\u00faz"
+    ],
     "name:che_x_preferred":[
         "\u0412\u0430\u0434\u0443\u0446"
-    ],
-    "name:chi_x_preferred":[
-        "\u74e6\u90fd\u8332"
     ],
     "name:chv_x_preferred":[
         "\u0412\u0430\u0434\u0443\u0446"
@@ -87,9 +78,6 @@
     "name:cym_x_preferred":[
         "Vaduz"
     ],
-    "name:cze_x_preferred":[
-        "Vad\u00faz"
-    ],
     "name:dan_x_preferred":[
         "Vaduz"
     ],
@@ -97,9 +85,6 @@
         "Vaduz"
     ],
     "name:diq_x_preferred":[
-        "Vaduz"
-    ],
-    "name:dut_x_preferred":[
         "Vaduz"
     ],
     "name:ell_x_preferred":[
@@ -135,9 +120,6 @@
     "name:fra_x_preferred":[
         "Vaduz"
     ],
-    "name:fre_x_preferred":[
-        "Vaduz"
-    ],
     "name:frp_x_preferred":[
         "Vaduz"
     ],
@@ -148,12 +130,6 @@
         "Vaduz"
     ],
     "name:gag_x_preferred":[
-        "Vaduz"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10d0\u10d3\u10e3\u10ea\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Vaduz"
     ],
     "name:gla_x_preferred":[
@@ -167,9 +143,6 @@
     ],
     "name:glv_x_preferred":[
         "Vaduz"
-    ],
-    "name:gre_x_preferred":[
-        "\u0392\u03b1\u03bd\u03c4\u03bf\u03cd\u03b6"
     ],
     "name:gsw_x_preferred":[
         "Vadoz"
@@ -206,9 +179,6 @@
     ],
     "name:hye_x_preferred":[
         "\u054e\u0561\u0564\u0578\u0582\u0581"
-    ],
-    "name:ice_x_preferred":[
-        "Vaduz"
     ],
     "name:ido_x_preferred":[
         "Vaduz"
@@ -276,20 +246,11 @@
     "name:ltz_x_preferred":[
         "Vaduz"
     ],
-    "name:mac_x_preferred":[
-        "\u0412\u0430\u0434\u0443\u0446"
-    ],
     "name:mal_x_preferred":[
         "\u0d35\u0d3e\u0d1f\u0d41\u0d38\u0d4d"
     ],
-    "name:mao_x_preferred":[
-        "Vaduz"
-    ],
     "name:mar_x_preferred":[
         "\u092b\u093e\u0921\u0941\u091f\u094d\u0938"
-    ],
-    "name:may_x_preferred":[
-        "Vaduz"
     ],
     "name:mkd_x_preferred":[
         "\u0412\u0430\u0434\u0443\u0446"
@@ -342,9 +303,6 @@
     "name:pan_x_preferred":[
         "\u0a2b\u0a3c\u0a3e\u0a26\u0a41\u0a24\u0a38"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0627\u062f\u0648\u062a\u0633"
-    ],
     "name:pms_x_preferred":[
         "Vaduz"
     ],
@@ -366,9 +324,6 @@
     "name:ron_x_preferred":[
         "Vaduz"
     ],
-    "name:rum_x_preferred":[
-        "Vaduz"
-    ],
     "name:rus_x_preferred":[
         "\u0412\u0430\u0434\u0443\u0446"
     ],
@@ -388,9 +343,6 @@
         "\u0dc0\u0da9\u0dd4\u0dc3\u0dca"
     ],
     "name:slk_x_preferred":[
-        "Vaduz"
-    ],
-    "name:slo_x_preferred":[
         "Vaduz"
     ],
     "name:slv_x_preferred":[
@@ -441,9 +393,6 @@
     "name:tha_x_preferred":[
         "\u0e27\u0e32\u0e14\u0e38\u0e0b"
     ],
-    "name:tib_x_preferred":[
-        "\u0f56\u0f0b\u0f51\u0f74\u0f0b\u0f5b\u0f72\u0f0d"
-    ],
     "name:tuk_x_preferred":[
         "Waduz"
     ],
@@ -481,9 +430,6 @@
         "Vaduz"
     ],
     "name:war_x_preferred":[
-        "Vaduz"
-    ],
-    "name:wel_x_preferred":[
         "Vaduz"
     ],
     "name:wol_x_preferred":[
@@ -647,7 +593,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1536881197,
+    "wof:lastmodified":1561830531,
     "wof:megacity":0,
     "wof:name":"Vaduz",
     "wof:parent_id":404473641,
