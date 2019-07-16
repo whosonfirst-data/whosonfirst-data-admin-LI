@@ -22,8 +22,14 @@
     "name:ara_x_preferred":[
         "\u0634\u0627\u0646 \u060c \u0644\u064a\u062e\u062a\u0646\u0634\u062a\u0627\u064a\u0646"
     ],
+    "name:ara_x_variant":[
+        "\u0634\u0627\u0646 "
+    ],
     "name:arg_x_preferred":[
         "Schaan"
+    ],
+    "name:aze_x_preferred":[
+        "\u015ean"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0428\u0430\u043d"
@@ -34,11 +40,17 @@
     "name:cat_x_preferred":[
         "Schaan"
     ],
+    "name:ceb_x_preferred":[
+        "Schaan"
+    ],
     "name:ces_x_preferred":[
         "Schaan"
     ],
     "name:che_x_preferred":[
         "\u0428\u0430\u043d"
+    ],
+    "name:cym_x_preferred":[
+        "Schaan"
     ],
     "name:dan_x_preferred":[
         "Schaan"
@@ -71,6 +83,9 @@
         "Schaan"
     ],
     "name:glg_x_preferred":[
+        "Schaan"
+    ],
+    "name:grn_x_preferred":[
         "Schaan"
     ],
     "name:gsw_x_preferred":[
@@ -145,6 +160,9 @@
     "name:rus_x_preferred":[
         "\u0428\u0430\u0430\u043d"
     ],
+    "name:rus_x_variant":[
+        "\u0428\u0430\u043d"
+    ],
     "name:scn_x_preferred":[
         "Schaan"
     ],
@@ -178,6 +196,9 @@
     "name:urd_x_preferred":[
         "\u0634\u0627\u0646\u060c \u0644\u06cc\u062e\u062a\u06cc\u0646\u0633\u062a\u0627\u0626\u0646"
     ],
+    "name:urd_x_variant":[
+        "\u0634\u0627\u0646"
+    ],
     "name:vie_x_preferred":[
         "Schaan"
     ],
@@ -185,6 +206,9 @@
         "Schaan"
     ],
     "name:vol_x_preferred":[
+        "Schaan"
+    ],
+    "name:war_x_preferred":[
         "Schaan"
     ],
     "name:zho_x_preferred":[
@@ -243,7 +267,7 @@
         }
     ],
     "wof:id":1125768419,
-    "wof:lastmodified":1561830532,
+    "wof:lastmodified":1563288955,
     "wof:name":"Schaan",
     "wof:parent_id":404473639,
     "wof:placetype":"locality",

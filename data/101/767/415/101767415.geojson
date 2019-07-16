@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000779,
-    "geom:area_square_m":6542465.570976,
+    "geom:area_square_m":6542465.570978,
     "geom:bbox":"9.4961678296,47.2037176237,9.56472831646,47.2353419458",
     "geom:latitude":47.21723,
     "geom:longitude":9.529887,
@@ -23,13 +23,16 @@
     "name:arg_x_preferred":[
         "Eschen"
     ],
+    "name:aze_x_preferred":[
+        "E\u015fen"
+    ],
     "name:bel_x_preferred":[
         "\u042d\u0448\u044d\u043d"
     ],
-    "name:bel_x_variant":[
-        "\u042d\u0448\u044d\u043d"
-    ],
     "name:cat_x_preferred":[
+        "Eschen"
+    ],
+    "name:ceb_x_preferred":[
         "Eschen"
     ],
     "name:ces_x_preferred":[
@@ -41,10 +44,16 @@
     "name:deu_x_preferred":[
         "Eschen"
     ],
+    "name:ell_x_preferred":[
+        "\u0388\u03c3\u03ba\u03b5\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Eschen"
     ],
     "name:epo_x_preferred":[
+        "Eschen"
+    ],
+    "name:est_x_preferred":[
         "Eschen"
     ],
     "name:eus_x_preferred":[
@@ -61,6 +70,9 @@
     ],
     "name:glg_x_preferred":[
         "Eschen"
+    ],
+    "name:gsw_x_preferred":[
+        "Escha"
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05e9\u05df"
@@ -104,6 +116,9 @@
     "name:nno_x_preferred":[
         "Eschen"
     ],
+    "name:nob_x_preferred":[
+        "Eschen"
+    ],
     "name:nor_x_preferred":[
         "Eschen"
     ],
@@ -128,6 +143,9 @@
     "name:scn_x_preferred":[
         "Eschen"
     ],
+    "name:sco_x_preferred":[
+        "Eschen"
+    ],
     "name:slk_x_preferred":[
         "Eschen"
     ],
@@ -139,6 +157,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e2d\u0e2a\u0e40\u0e0a\u0e34\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e2d\u0e47\u0e0a\u0e40\u0e0a\u0e34\u0e19"
     ],
     "name:tur_x_preferred":[
         "Eschen"
@@ -201,7 +222,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1527689267,
+    "wof:lastmodified":1563288946,
     "wof:name":"Eschen",
     "wof:parent_id":404473645,
     "wof:placetype":"locality",

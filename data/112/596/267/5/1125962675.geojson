@@ -130,6 +130,9 @@
     "name:lim_x_preferred":[
         "Steg"
     ],
+    "name:lmo_x_preferred":[
+        "Steg"
+    ],
     "name:ltz_x_preferred":[
         "Steg"
     ],
@@ -285,7 +288,7 @@
         }
     ],
     "wof:id":1125962675,
-    "wof:lastmodified":1561830532,
+    "wof:lastmodified":1563288952,
     "wof:name":"Steg",
     "wof:parent_id":404473637,
     "wof:placetype":"locality",

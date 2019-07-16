@@ -28,6 +28,9 @@
     "name:cat_x_preferred":[
         "Mauren"
     ],
+    "name:ceb_x_preferred":[
+        "Mauren"
+    ],
     "name:ces_x_preferred":[
         "Mauren"
     ],
@@ -133,6 +136,9 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e21\u0e32\u0e40\u0e23\u0e34\u0e19"
     ],
+    "name:tur_x_preferred":[
+        "Mauren"
+    ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0443\u0440\u0435\u043d"
     ],
@@ -199,7 +205,7 @@
         }
     ],
     "wof:id":1126007931,
-    "wof:lastmodified":1561830532,
+    "wof:lastmodified":1563288954,
     "wof:name":"Mauren",
     "wof:parent_id":404473651,
     "wof:placetype":"locality",
