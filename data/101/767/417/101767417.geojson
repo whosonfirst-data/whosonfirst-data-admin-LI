@@ -26,10 +26,16 @@
     "name:arg_x_preferred":[
         "Balzers"
     ],
+    "name:aze_x_preferred":[
+        "Bal\u00e7ers"
+    ],
     "name:bel_x_preferred":[
         "\u0411\u0430\u043b\u044c\u0446\u044d\u0440\u0441"
     ],
     "name:cat_x_preferred":[
+        "Balzers"
+    ],
+    "name:ceb_x_preferred":[
         "Balzers"
     ],
     "name:ces_x_preferred":[
@@ -67,6 +73,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05dc\u05e6\u05e8\u05e1"
+    ],
+    "name:hrv_x_preferred":[
+        "Balzers"
     ],
     "name:ind_x_preferred":[
         "Balzers"
@@ -143,6 +152,9 @@
     "name:swe_x_preferred":[
         "Balzers"
     ],
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e31\u0e25\u0e17\u0e4c\u0e40\u0e0b\u0e34\u0e23\u0e4c\u0e2a"
+    ],
     "name:tur_x_preferred":[
         "Balzers"
     ],
@@ -206,7 +218,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1561830531,
+    "wof:lastmodified":1563288947,
     "wof:name":"Balzers",
     "wof:parent_id":404473643,
     "wof:placetype":"locality",

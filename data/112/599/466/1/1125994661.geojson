@@ -28,11 +28,17 @@
     "name:cat_x_preferred":[
         "Triesenberg"
     ],
+    "name:ceb_x_preferred":[
+        "Triesenberg"
+    ],
     "name:dan_x_preferred":[
         "Triesenberg"
     ],
     "name:deu_x_preferred":[
         "Triesenberg"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c1\u03af\u03b6\u03b5\u03bd\u03bc\u03c0\u03b5\u03c1\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Triesenberg"
@@ -136,6 +142,12 @@
     "name:tha_x_preferred":[
         "\u0e17\u0e23\u0e35\u0e40\u0e0b\u0e34\u0e19\u0e41\u0e1a\u0e23\u0e4c\u0e01"
     ],
+    "name:tha_x_variant":[
+        "\u0e17\u0e23\u0e35\u0e40\u0e0b\u0e34\u0e19\u0e41\u0e1a\u0e23\u0e4c\u0e04"
+    ],
+    "name:tur_x_preferred":[
+        "Triesenberg"
+    ],
     "name:ukr_x_preferred":[
         "\u0422\u0440\u0456\u0437\u0435\u043d\u0431\u0435\u0440\u0433"
     ],
@@ -198,7 +210,7 @@
         }
     ],
     "wof:id":1125994661,
-    "wof:lastmodified":1561830532,
+    "wof:lastmodified":1563288951,
     "wof:name":"Triesenberg",
     "wof:parent_id":404473637,
     "wof:placetype":"locality",
