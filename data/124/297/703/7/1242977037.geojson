@@ -25,6 +25,36 @@
     "iso:country":"LI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:arg_x_preferred":[
+        "Schaanwald"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ac\u03b1\u03bd\u03b2\u03b1\u03bb\u03bd\u03c4"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0627\u0646\u0648\u0627\u0644\u062f"
+    ],
+    "name:hye_x_preferred":[
+        "\u0547\u0561\u0576\u057e\u0561\u056c\u0564"
+    ],
+    "name:lmo_x_preferred":[
+        "Schaanwald"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0428\u0430\u043d\u0432\u0430\u043b\u0434"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u043d\u0432\u0430\u043b\u044c\u0434"
+    ],
+    "name:spa_x_preferred":[
+        "Schaanwald"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0430\u043d\u0432\u0430\u043b\u044c\u0434"
+    ],
+    "name:urd_x_preferred":[
+        "\u0634\u0627\u0646\u0648\u0627\u0644\u062f"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +79,7 @@
         }
     ],
     "wof:id":1242977037,
-    "wof:lastmodified":1537567957,
+    "wof:lastmodified":1564169964,
     "wof:name":"Schaanwald",
     "wof:parent_id":404473651,
     "wof:placetype":"locality",

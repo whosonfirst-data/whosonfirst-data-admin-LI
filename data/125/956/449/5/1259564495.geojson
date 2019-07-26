@@ -25,8 +25,38 @@
     "iso:country":"LI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:arg_x_preferred":[
+        "M\u00fchleholz"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0644\u0647\u200c\u0647\u0648\u0644\u062a\u0633"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0575\u0578\u0582\u056c\u0565\u0570\u0578\u056c\u0581"
+    ],
+    "name:lmo_x_preferred":[
+        "M\u00fchleholz"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041c\u0438\u043b\u0435\u0445\u043e\u043b\u0446"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u044e\u043b\u0435\u0445\u043e\u043b\u044c\u0446"
+    ],
+    "name:spa_x_preferred":[
+        "M\u00fchleholz"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u044e\u043b\u0435\u0433\u043e\u043b\u044c\u0446"
+    ],
     "name:und_x_variant":[
         "M\u00f6liholz",
+        "M\u00fchleholz"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u0644\u06cc\u06c1\u0648\u0644\u0632"
+    ],
+    "name:vie_x_preferred":[
         "M\u00fchleholz"
     ],
     "src:geom":"geonames",
@@ -53,7 +83,7 @@
         }
     ],
     "wof:id":1259564495,
-    "wof:lastmodified":1537661327,
+    "wof:lastmodified":1564169965,
     "wof:name":"Moliholz",
     "wof:parent_id":404473641,
     "wof:placetype":"locality",
