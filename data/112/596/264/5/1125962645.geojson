@@ -19,6 +19,48 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arg_x_preferred":[
+        "Malbun"
+    ],
+    "name:deu_x_preferred":[
+        "Malbun"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0644\u0628\u0648\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Malbun"
+    ],
+    "name:ita_x_preferred":[
+        "Malbun"
+    ],
+    "name:lmo_x_preferred":[
+        "Malbun"
+    ],
+    "name:nau_x_preferred":[
+        "Malbun"
+    ],
+    "name:nor_x_preferred":[
+        "Malbun"
+    ],
+    "name:pol_x_preferred":[
+        "Malbun"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u044c\u0431\u0443\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Malbun"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043b\u044c\u0431\u0443\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0644\u0628\u0648\u0646"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u723e\u90a6"
+    ],
     "qs_pg:aaroncc":"LI",
     "qs_pg:gn_country":"LI",
     "qs_pg:gn_fcode":"PPL",
@@ -71,7 +113,7 @@
         }
     ],
     "wof:id":1125962645,
-    "wof:lastmodified":1509403405,
+    "wof:lastmodified":1564169963,
     "wof:name":"Malbun",
     "wof:parent_id":404473657,
     "wof:placetype":"locality",
