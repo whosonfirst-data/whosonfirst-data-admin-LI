@@ -14,6 +14,9 @@
     "itu:country_code":[
         "423"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LI"
+    ],
     "lbl:latitude":47.111405,
     "lbl:longitude":9.559439,
     "mps:latitude":47.111405,
@@ -1095,9 +1098,6 @@
         }
     ],
     "wof:id":85633267,
-    "wof:lang":[
-        "ger"
-    ],
     "wof:lang_x_official":[
         "deu",
         "gsw"
@@ -1106,7 +1106,7 @@
         "deu",
         "gsw"
     ],
-    "wof:lastmodified":1563288935,
+    "wof:lastmodified":1565726550,
     "wof:name":"Liechtenstein",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
