@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3794306.093327,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.568634,47.219566,9.568634,47.219566",
     "geom:latitude":47.219566,
     "geom:longitude":9.568634,
     "gn:latitude":47.23148,
     "gn:longitude":9.54653,
     "iso:country":"LI",
+    "lbl:bbox":"9.563634,47.214566,9.573634,47.224566",
     "lbl:latitude":47.219566,
     "lbl:longitude":9.568634,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.215554,
     "mps:longitude":9.571523,
     "mz:hierarchy_label":0,
@@ -28,9 +30,8 @@
     "name:deu_x_preferred":[
         "Mittlerer Schellenberg"
     ],
-    "name:unk_x_variant":[
-        "Mittler-Schellenberg",
-        "Mittlerer Schellenberg"
+    "name:und_x_variant":[
+        "Mittler-Schellenberg"
     ],
     "qs:gn_adm0_cc":"LI",
     "qs:gn_fcode":"PPLX",
@@ -58,18 +59,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85685737,
         102191581,
         404473651,
-        85633267
+        85633267,
+        85685737
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3042054,
         "gp:id":856449,
-        "qs:id":42893
+        "qs_pg:id":42893
     },
     "wof:country":"LI",
     "wof:geomhash":"6d5552383f4154a8090e4d8a6d4fb6ed",
@@ -87,7 +88,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1531932531,
+    "wof:lastmodified":1566594103,
     "wof:name":"Mittlerer Schellenberg",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

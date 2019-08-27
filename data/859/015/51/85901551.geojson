@@ -9,14 +9,16 @@
     "geom:bbox":"9.555969,47.242363,9.555969,47.242363",
     "geom:latitude":47.242363,
     "geom:longitude":9.555969,
-    "gn:gn_country":"LI",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"LI",
+    "gn:fcode":"PPLX",
     "gn:latitude":47.24102,
     "gn:longitude":9.55879,
+    "gn:population":0,
     "iso:country":"LI",
+    "lbl:bbox":"9.550969,47.237363,9.560969,47.247363",
     "lbl:latitude":47.242363,
     "lbl:longitude":9.555969,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.241948,
     "mps:longitude":9.555119,
     "mz:hierarchy_label":0,
@@ -73,9 +75,8 @@
     "name:ukr_x_preferred":[
         "\u0413\u0456\u043d\u0442\u0435\u0440-\u0428\u0435\u043b\u043b\u0435\u043d\u0431\u0435\u0440\u0433"
     ],
-    "name:unk_x_variant":[
-        "Hinter-Schellenberg",
-        "Hinterer Schellenberg"
+    "name:und_x_variant":[
+        "Hinter-Schellenberg"
     ],
     "name:urd_x_preferred":[
         "\u06c1\u0646\u0679\u0631\u0634\u06cc\u0644\u0627\u06cc\u0646\u0628\u0631\u06af"
@@ -126,7 +127,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:elevation":620.0,
     "wd:latitude":47.233333,
     "wd:longitude":9.533333,
@@ -141,7 +142,6 @@
     "wof:concordances":{
         "gn:id":3042060,
         "gp:id":856451,
-        "qs:id":42894,
         "qs_pg:id":42894,
         "wd:id":"Q4497829",
         "wk:page":"Hinterschellenberg"
@@ -162,7 +162,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1563288928,
+    "wof:lastmodified":1566594103,
     "wof:name":"Hinterer Schellenberg",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

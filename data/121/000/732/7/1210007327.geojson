@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vaduz",
     "iso:country":"LI",
+    "lbl:bbox":"9.51413,47.20853,9.55413,47.24853",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Loch"
     ],
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":1210007327,
-    "wof:lastmodified":1564169957,
+    "wof:lastmodified":1566594104,
     "wof:name":"Loch",
     "wof:parent_id":404473663,
     "wof:placetype":"locality",

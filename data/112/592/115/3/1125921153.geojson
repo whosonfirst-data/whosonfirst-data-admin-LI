@@ -9,15 +9,18 @@
     "geom:bbox":"9.54437,47.18516,9.54437,47.18516",
     "geom:latitude":47.18516,
     "geom:longitude":9.54437,
-    "gn:gn_country":"LI",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":377,
+    "gn:country":"LI",
+    "gn:fcode":"PPLA",
     "gn:population":377,
     "iso:country":"LI",
+    "lbl:bbox":"9.52437,47.16516,9.56437,47.20516",
     "lbl:latitude":47.18516,
     "lbl:longitude":9.54437,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:arg_x_preferred":[
         "Planken"
@@ -142,7 +145,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u043b\u0430\u043d\u043a\u0435\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Blanken"
     ],
     "name:urd_x_preferred":[
@@ -175,7 +178,7 @@
     "qs_pg:woe_adm0":23424879,
     "qs_pg:woe_id":856447,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424879,
     "woe:name_adm0":"Liechtenstein",
@@ -207,7 +210,7 @@
         }
     ],
     "wof:id":1125921153,
-    "wof:lastmodified":1563288950,
+    "wof:lastmodified":1566594109,
     "wof:name":"Planken",
     "wof:parent_id":404473665,
     "wof:placetype":"locality",
