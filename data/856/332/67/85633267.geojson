@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":47.111405,
     "lbl:longitude":9.559439,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":47.111405,
     "mps:longitude":9.559439,
     "mz:hierarchy_label":1,
@@ -873,9 +875,6 @@
     "name:und_x_variant":[
         "Lichtenst\u00e1in"
     ],
-    "name:unk_x_variant":[
-        "Lichtenstein"
-    ],
     "name:urd_x_preferred":[
         "\u0644\u06cc\u062e\u062a\u06cc\u0646\u0633\u062a\u0627\u0626\u0646"
     ],
@@ -1038,7 +1037,7 @@
         "naturalearth"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"423",
     "statoids:ds":"FL",
@@ -1083,7 +1082,7 @@
         "mzb:id":"liechtenstein",
         "ne:adm0_a3":"LIE",
         "nyt:id":"N76549231480595749851",
-        "qs:id":94398,
+        "qs_pg:id":94398,
         "uncrt:id":"FL",
         "wd:id":"Q347",
         "wk:page":"Liechtenstein"
@@ -1106,7 +1105,7 @@
         "deu",
         "gsw"
     ],
-    "wof:lastmodified":1565726550,
+    "wof:lastmodified":1566594103,
     "wof:name":"Liechtenstein",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
