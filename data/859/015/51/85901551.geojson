@@ -147,6 +147,9 @@
         "wk:page":"Hinterschellenberg"
     },
     "wof:country":"LI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"51d43fe8b50daaec644816f7cd739cf6",
     "wof:hierarchy":[
         {
@@ -162,7 +165,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1566594103,
+    "wof:lastmodified":1582343858,
     "wof:name":"Hinterer Schellenberg",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

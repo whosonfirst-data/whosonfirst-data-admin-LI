@@ -73,6 +73,9 @@
         "qs_pg:id":42893
     },
     "wof:country":"LI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6d5552383f4154a8090e4d8a6d4fb6ed",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1566594103,
+    "wof:lastmodified":1582343858,
     "wof:name":"Mittlerer Schellenberg",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

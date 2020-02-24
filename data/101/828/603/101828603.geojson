@@ -640,6 +640,9 @@
         "wk:page":"Vaduz"
     },
     "wof:country":"LI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cc7b9a0e3f3a8462e252b24526924d24",
     "wof:hierarchy":[
         {
@@ -654,7 +657,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1566594107,
+    "wof:lastmodified":1582343858,
     "wof:megacity":0,
     "wof:name":"Vaduz",
     "wof:parent_id":404473641,
