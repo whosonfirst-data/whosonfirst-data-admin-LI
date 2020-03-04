@@ -1033,8 +1033,8 @@
     "qs:source":"SwissTopo",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes",
-        "naturalearth"
+        "naturalearth",
+        "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
@@ -1089,6 +1089,11 @@
     },
     "wof:country":"LI",
     "wof:country_alpha3":"LIE",
+    "wof:geom_alt":[
+        "naturalearth-display-terrestrial-zoom6",
+        "naturalearth",
+        "quattroshapes"
+    ],
     "wof:geomhash":"b8f7bf9366262fefbc47214e790a249a",
     "wof:hierarchy":[
         {
@@ -1105,7 +1110,7 @@
         "deu",
         "gsw"
     ],
-    "wof:lastmodified":1566594103,
+    "wof:lastmodified":1583222821,
     "wof:name":"Liechtenstein",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

@@ -210,6 +210,9 @@
         "wd:id":"Q4540"
     },
     "wof:country":"LI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e8481e56d9aea1f452b6c89a1d153f6a",
     "wof:hierarchy":[
         {
@@ -224,7 +227,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1566594107,
+    "wof:lastmodified":1582343858,
     "wof:name":"Eschen",
     "wof:parent_id":404473645,
     "wof:placetype":"locality",

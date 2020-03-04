@@ -205,6 +205,9 @@
         "wk:page":"Triesen"
     },
     "wof:country":"LI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5922c7bd87b8d2272942e4bf386313c6",
     "wof:hierarchy":[
         {
@@ -219,7 +222,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1566594107,
+    "wof:lastmodified":1582343858,
     "wof:name":"Triesen",
     "wof:parent_id":404473633,
     "wof:placetype":"locality",
