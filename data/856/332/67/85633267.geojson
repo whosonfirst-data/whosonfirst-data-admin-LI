@@ -1034,7 +1034,6 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "naturalearth",
-        "naturalearth",
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
@@ -1111,7 +1110,7 @@
         "deu",
         "gsw"
     ],
-    "wof:lastmodified":1582343858,
+    "wof:lastmodified":1583222821,
     "wof:name":"Liechtenstein",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
