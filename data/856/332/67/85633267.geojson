@@ -1066,9 +1066,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Liechtenstein",
-        "digitalenvoy:country_code":[
-            438
-        ],
+        "digitalenvoy:country_code":438,
         "fb:id":"en.liechtenstein",
         "fifa:id":"LIE",
         "fips:code":"LS",
@@ -1113,7 +1111,7 @@
         "deu",
         "gsw"
     ],
-    "wof:lastmodified":1583529175,
+    "wof:lastmodified":1583797382,
     "wof:name":"Liechtenstein",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
