@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019021,
-    "geom:area_square_m":159982432.474584,
+    "geom:area_square_m":159982344.385935,
     "geom:bbox":"9.471683,47.048427,9.635643,47.270575",
     "geom:latitude":47.141257,
     "geom:longitude":9.552854,
@@ -1088,6 +1088,9 @@
         "wd:id":"Q347",
         "wk:page":"Liechtenstein"
     },
+    "wof:coterminous":[
+        85685737
+    ],
     "wof:country":"LI",
     "wof:country_alpha3":"LIE",
     "wof:geom_alt":[
@@ -1111,7 +1114,7 @@
         "deu",
         "gsw"
     ],
-    "wof:lastmodified":1583797382,
+    "wof:lastmodified":1608054823,
     "wof:name":"Liechtenstein",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
