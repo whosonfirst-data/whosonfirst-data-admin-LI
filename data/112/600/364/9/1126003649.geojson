@@ -22,7 +22,13 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0634\u0644\u064a\u0646\u0628\u0631\u062c"
+    ],
     "name:arg_x_preferred":[
+        "Schellenberg"
+    ],
+    "name:ast_x_preferred":[
         "Schellenberg"
     ],
     "name:bel_x_preferred":[
@@ -30,6 +36,9 @@
     ],
     "name:ben_x_preferred":[
         "\u09b6\u09c7\u09b2\u09c7\u09a8\u09ac\u09be\u09b0\u09cd\u0997"
+    ],
+    "name:bul_x_preferred":[
+        "\u0428\u0435\u043b\u0435\u043d\u0431\u0435\u0440\u0433"
     ],
     "name:cat_x_preferred":[
         "Schellenberg"
@@ -88,6 +97,9 @@
     "name:hun_x_preferred":[
         "Schellenberg"
     ],
+    "name:hye_x_preferred":[
+        "\u0547\u0565\u056c\u0565\u0576\u0562\u0565\u0580\u0563"
+    ],
     "name:ind_x_preferred":[
         "Schellenberg"
     ],
@@ -111,6 +123,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u0428\u0435\u043b\u0435\u043d\u0431\u0435\u0440\u0433"
+    ],
+    "name:nan_x_preferred":[
+        "Schellenberg"
     ],
     "name:nld_x_preferred":[
         "Schellenberg"
@@ -136,6 +151,9 @@
     "name:por_x_preferred":[
         "Schellenberg"
     ],
+    "name:pus_x_preferred":[
+        "\u0634\u06cc\u0644\u06cc\u0646\u0628\u0631\u06ab"
+    ],
     "name:roh_x_preferred":[
         "Schellenberg"
     ],
@@ -152,6 +170,9 @@
         "Schellenberg"
     ],
     "name:slk_x_preferred":[
+        "Schellenberg"
+    ],
+    "name:smn_x_preferred":[
         "Schellenberg"
     ],
     "name:spa_x_preferred":[
@@ -175,10 +196,16 @@
     "name:urd_x_preferred":[
         "\u0634\u0644\u0646\u0628\u0631\u06af"
     ],
+    "name:vec_x_preferred":[
+        "Schellenberg"
+    ],
     "name:vie_x_preferred":[
         "Schellenberg"
     ],
     "name:vol_x_preferred":[
+        "Schellenberg"
+    ],
+    "name:war_x_preferred":[
         "Schellenberg"
     ],
     "name:zho_x_preferred":[
@@ -223,7 +250,7 @@
         }
     ],
     "wof:id":1126003649,
-    "wof:lastmodified":1636500464,
+    "wof:lastmodified":1690938531,
     "wof:name":"Schellenberg",
     "wof:parent_id":404473663,
     "wof:placetype":"locality",

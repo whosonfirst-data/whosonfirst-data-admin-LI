@@ -29,6 +29,9 @@
     "name:arg_x_preferred":[
         "Balzers"
     ],
+    "name:ast_x_preferred":[
+        "Balzers"
+    ],
     "name:aze_x_preferred":[
         "Bal\u00e7ers"
     ],
@@ -53,6 +56,9 @@
     "name:deu_x_preferred":[
         "Balzers"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03ac\u03bb\u03c4\u03c3\u03b5\u03c1\u03c2"
+    ],
     "name:eng_x_preferred":[
         "Balzers"
     ],
@@ -71,6 +77,9 @@
     "name:fra_x_preferred":[
         "Balzers"
     ],
+    "name:frr_x_preferred":[
+        "Balzers"
+    ],
     "name:glg_x_preferred":[
         "Balzers"
     ],
@@ -84,6 +93,9 @@
         "\u092c\u093e\u0932\u094d\u091c\u093c\u0930\u094d\u0938"
     ],
     "name:hrv_x_preferred":[
+        "Balzers"
+    ],
+    "name:hun_x_preferred":[
         "Balzers"
     ],
     "name:ind_x_preferred":[
@@ -113,6 +125,9 @@
     "name:msa_x_preferred":[
         "Balzers"
     ],
+    "name:nan_x_preferred":[
+        "Balzers"
+    ],
     "name:nau_x_preferred":[
         "Balzers"
     ],
@@ -140,6 +155,9 @@
     "name:por_x_preferred":[
         "Balzers"
     ],
+    "name:pus_x_preferred":[
+        "\u0628\u0627\u0644\u0632\u0631\u0633"
+    ],
     "name:roh_x_preferred":[
         "Balzers"
     ],
@@ -153,6 +171,9 @@
         "Balzers"
     ],
     "name:slk_x_preferred":[
+        "Balzers"
+    ],
+    "name:smn_x_preferred":[
         "Balzers"
     ],
     "name:spa_x_preferred":[
@@ -170,14 +191,29 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043b\u044c\u0446\u0435\u0440\u0441"
     ],
+    "name:urd_x_preferred":[
+        "\u0628\u0627\u0644\u0632\u0631\u0633"
+    ],
+    "name:vec_x_preferred":[
+        "Balzers"
+    ],
     "name:vie_x_preferred":[
         "Balzers"
     ],
     "name:vol_x_preferred":[
         "Balzers"
     ],
+    "name:war_x_preferred":[
+        "Balzers"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5df4\u5c14\u7b56\u65af"
+    ],
     "name:zho_x_preferred":[
         "\u5df4\u5c14\u91c7\u65af"
+    ],
+    "name:zho_x_variant":[
+        "\u5df4\u5c14\u7b56\u65af"
     ],
     "qs:a0":"Liechtenstein",
     "qs:a1":"*",
@@ -232,7 +268,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1636500464,
+    "wof:lastmodified":1690938529,
     "wof:name":"Balzers",
     "wof:parent_id":404473643,
     "wof:placetype":"locality",
