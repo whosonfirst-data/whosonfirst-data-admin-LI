@@ -235,6 +235,9 @@
     "name:wol_x_preferred":[
         "Steg"
     ],
+    "name:zho_x_preferred":[
+        "\u65bd\u6cf0\u683c"
+    ],
     "name:zul_x_preferred":[
         "Steg"
     ],
@@ -291,7 +294,7 @@
         }
     ],
     "wof:id":1125962675,
-    "wof:lastmodified":1566594110,
+    "wof:lastmodified":1690938530,
     "wof:name":"Steg",
     "wof:parent_id":404473637,
     "wof:placetype":"locality",

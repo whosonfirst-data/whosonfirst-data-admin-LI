@@ -26,9 +26,13 @@
         "\u0634\u0627\u0646 \u060c \u0644\u064a\u062e\u062a\u0646\u0634\u062a\u0627\u064a\u0646"
     ],
     "name:ara_x_variant":[
-        "\u0634\u0627\u0646"
+        "\u0634\u0627\u0646",
+        "\u0634\u0627\u0646 "
     ],
     "name:arg_x_preferred":[
+        "Schaan"
+    ],
+    "name:ast_x_preferred":[
         "Schaan"
     ],
     "name:aze_x_preferred":[
@@ -36,6 +40,9 @@
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0428\u0430\u043d"
+    ],
+    "name:bel_x_variant":[
+        "\u0428\u0430\u043d"
     ],
     "name:ben_x_preferred":[
         "\u09b6\u09be\u09a8"
@@ -85,6 +92,9 @@
     "name:fra_x_preferred":[
         "Schaan"
     ],
+    "name:frr_x_preferred":[
+        "Schaan"
+    ],
     "name:gla_x_preferred":[
         "Schaan"
     ],
@@ -105,6 +115,9 @@
     ],
     "name:hun_x_preferred":[
         "Schaan"
+    ],
+    "name:hye_x_preferred":[
+        "\u0547\u0561\u0576"
     ],
     "name:ind_x_preferred":[
         "Schaan"
@@ -136,6 +149,9 @@
     "name:nah_x_preferred":[
         "Schaan"
     ],
+    "name:nan_x_preferred":[
+        "Schaan"
+    ],
     "name:nau_x_preferred":[
         "Schaan"
     ],
@@ -160,6 +176,9 @@
     "name:por_x_preferred":[
         "Schaan"
     ],
+    "name:pus_x_preferred":[
+        "\u0634\u0627\u0646"
+    ],
     "name:roh_x_preferred":[
         "Schaan"
     ],
@@ -181,6 +200,9 @@
     "name:slk_x_preferred":[
         "Schaan"
     ],
+    "name:smn_x_preferred":[
+        "Schaan"
+    ],
     "name:spa_x_preferred":[
         "Schaan"
     ],
@@ -199,6 +221,9 @@
     "name:ukr_x_preferred":[
         "\u0428\u0430\u043d"
     ],
+    "name:ukr_x_variant":[
+        "\u0428\u0430\u0430\u043d"
+    ],
     "name:und_x_variant":[
         "Schan"
     ],
@@ -207,6 +232,9 @@
     ],
     "name:urd_x_variant":[
         "\u0634\u0627\u0646"
+    ],
+    "name:vec_x_preferred":[
+        "Schaan"
     ],
     "name:vie_x_preferred":[
         "Schaan"
@@ -276,7 +304,7 @@
         }
     ],
     "wof:id":1125768419,
-    "wof:lastmodified":1636500464,
+    "wof:lastmodified":1690938531,
     "wof:name":"Schaan",
     "wof:parent_id":404473639,
     "wof:placetype":"locality",

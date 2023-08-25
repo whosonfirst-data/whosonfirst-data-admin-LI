@@ -22,7 +22,13 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062a\u0631\u064a\u0633\u0646\u0628\u064a\u0631\u062c"
+    ],
     "name:arg_x_preferred":[
+        "Triesenberg"
+    ],
+    "name:ast_x_preferred":[
         "Triesenberg"
     ],
     "name:bel_x_preferred":[
@@ -35,6 +41,9 @@
         "Triesenberg"
     ],
     "name:ceb_x_preferred":[
+        "Triesenberg"
+    ],
+    "name:ces_x_preferred":[
         "Triesenberg"
     ],
     "name:dan_x_preferred":[
@@ -67,6 +76,9 @@
     "name:fra_x_preferred":[
         "Triesenberg"
     ],
+    "name:frr_x_preferred":[
+        "Triesenberg"
+    ],
     "name:glg_x_preferred":[
         "Triesenberg"
     ],
@@ -78,6 +90,9 @@
     ],
     "name:hin_x_preferred":[
         "\u091f\u094d\u0930\u093e\u0907\u0938\u0947\u0928\u092c\u0930\u094d\u0917"
+    ],
+    "name:hun_x_preferred":[
+        "Triesenberg"
     ],
     "name:ind_x_preferred":[
         "Triesenberg"
@@ -103,6 +118,9 @@
     "name:mkd_x_preferred":[
         "\u0422\u0440\u0438\u0437\u0435\u043d\u0431\u0435\u0440\u0433"
     ],
+    "name:nan_x_preferred":[
+        "Triesenberg"
+    ],
     "name:nld_x_preferred":[
         "Triesenberg"
     ],
@@ -124,6 +142,9 @@
     "name:por_x_preferred":[
         "Triesenberg"
     ],
+    "name:pus_x_preferred":[
+        "\u062a\u0631\u06cc\u0632\u0646\u0628\u0631\u06ab"
+    ],
     "name:roh_x_preferred":[
         "Triesenberg"
     ],
@@ -137,6 +158,9 @@
         "Triesenberg"
     ],
     "name:slk_x_preferred":[
+        "Triesenberg"
+    ],
+    "name:smn_x_preferred":[
         "Triesenberg"
     ],
     "name:spa_x_preferred":[
@@ -163,10 +187,16 @@
     "name:urd_x_preferred":[
         "\u0679\u0631\u0627\u0626\u0633\u06cc\u0646 \u0628\u0631\u06af"
     ],
+    "name:vec_x_preferred":[
+        "Triesenberg"
+    ],
     "name:vie_x_preferred":[
         "Triesenberg"
     ],
     "name:vol_x_preferred":[
+        "Triesenberg"
+    ],
+    "name:war_x_preferred":[
         "Triesenberg"
     ],
     "name:zho_x_preferred":[
@@ -225,7 +255,7 @@
         }
     ],
     "wof:id":1125994661,
-    "wof:lastmodified":1636500464,
+    "wof:lastmodified":1690938530,
     "wof:name":"Triesenberg",
     "wof:parent_id":404473637,
     "wof:placetype":"locality",
