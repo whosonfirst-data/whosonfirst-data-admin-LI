@@ -1253,6 +1253,7 @@
         "hasc:id":"LI",
         "icao:code":"HB",
         "ioc:id":"LIE",
+        "iso:code":"LI",
         "itu:id":"LIE",
         "loc:id":"n80158592",
         "m49:code":"438",
@@ -1266,6 +1267,7 @@
         "wd:id":"Q347",
         "wk:page":"Liechtenstein"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         85685737
     ],
@@ -1292,7 +1294,7 @@
         "deu",
         "gsw"
     ],
-    "wof:lastmodified":1694492264,
+    "wof:lastmodified":1695881376,
     "wof:name":"Liechtenstein",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
