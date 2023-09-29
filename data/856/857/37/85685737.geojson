@@ -716,7 +716,10 @@
         85633267
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "iso:code_pseudo":"LI"
+    },
+    "wof:concordances_official":"iso:code_pseudo",
     "wof:coterminous":[
         85633267
     ],
@@ -738,7 +741,7 @@
         "deu",
         "gsw"
     ],
-    "wof:lastmodified":1694493173,
+    "wof:lastmodified":1695884477,
     "wof:name":"Liechtenstein",
     "wof:parent_id":85633267,
     "wof:placetype":"region",
